@@ -1,9 +1,6 @@
-# Battle-For-The-Defence
-《Battle For The Defence》is a casual tower Defense game.  You need to use your strategy to position the cannons so that the different attributes of the cannons will destroy the intruder more quickly and efficiently. Come and protect our homeland, soldier!
-
 
 PRIVACY POLICY
-
+-------------------------------------------------------------------------------------------------------------------------------------
 Thank you for playing our games! This Privacy Policy describes:
 The ways we collect personal data about you and why we do so.
 How we use your personal data.
